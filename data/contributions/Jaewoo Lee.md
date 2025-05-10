@@ -1,7 +1,7 @@
 ---
 title: Fix broken link in device/vr/README.md
 date: 2025-05-04
-author: Jaewoo Lee
+author: gugukorn
 contribution_url: https://crrev.com/c/6508330 # https://chromium-review.googlesource.com/c/chromium/src/+/6508330
 labels: ["docs", "vr"] # directory name and detail
 status: in review # in review, merged 중 하나 선택
