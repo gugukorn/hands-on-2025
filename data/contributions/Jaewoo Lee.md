@@ -7,7 +7,7 @@ labels: ["docs", "vr"] # directory name and detail
 status: in review # in review, merged 중 하나 선택
 ---
 
-device/vr/README.md에서 참조하는 파일 경로를 수정했습니다.
+device/vr/README.md에서 참조하는 파일 경로를 수정했습니다
 
 ## 문제 설명
 
